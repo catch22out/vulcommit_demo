@@ -1,5 +1,1 @@
-#include<cstdio>
-int main(){
-	printf("Hello World");
-	return 0;
-}
+printf int = 1
